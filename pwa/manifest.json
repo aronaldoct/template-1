@@ -1,0 +1,29 @@
+{
+    "name": "Portafolio1",
+    "short_name": "PT",
+    "description": "Propuesta 1 de portafolio para docente",
+    "background_color": "#dddcd7",
+    "theme_color": "#dddcd7",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pw/icon.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pw/icon2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pw/icon1.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
